@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dejesusj790
-- 👀 I’m interested in ... propane and propane accessories
-- 🌱 I’m currently learning ... as much as I can about honing my coding craft 
-- 💞️ I’m looking to collaborate on ... 
+- 👋 Hi, Jorge
+- 👀 I’m interested in nature and discussing breakfast foods.
+- 🌱 I’m currently learning how to work on personal projects more often so I can about honing my coding craft. 
+- 💞️ I’m looking to collaborate on projects that can help others.
 - 📫 How to reach me ... dejesusj790@gmail.com
 
 <!---
